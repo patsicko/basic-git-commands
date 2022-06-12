@@ -1,3 +1,4 @@
+
 ## BASIC GIT COMMANDS 
 
 Prepared by: MANIBAHO Patrick
@@ -220,4 +221,6 @@ First, you will need to create a new repository on GitHub. For more information,
 
 
 ![image](https://user-images.githubusercontent.com/63926982/170977284-f0f880d7-5f60-4ceb-8cb7-e0a711a951fd.png)
+
+[Rys Git Tutorial.pdf](https://github.com/patsicko/basic-git-commands/files/8886136/Rys.Git.Tutorial.pdf)
 
