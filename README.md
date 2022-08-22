@@ -224,5 +224,3 @@ First, you will need to create a new repository on GitHub. For more information,
 
 [Rys Git Tutorial.pdf](https://github.com/patsicko/basic-git-commands/files/8886136/Rys.Git.Tutorial.pdf)
 
-[book](https://github.com/home/patsicko/Desktop/MY BOOKS/The_48_Laws_of_Power.pdf)
-
