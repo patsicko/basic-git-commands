@@ -224,3 +224,5 @@ First, you will need to create a new repository on GitHub. For more information,
 
 [Rys Git Tutorial.pdf](https://github.com/patsicko/basic-git-commands/files/8886136/Rys.Git.Tutorial.pdf)
 
+[EMACS](/home/patsicko/Desktop/ALX/EMACS DOCUMENTATION.pdf)
+
